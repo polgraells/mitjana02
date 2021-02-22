@@ -2,11 +2,11 @@
 //Compilació: gcc mitjan02.c -o mitjana02
 //Execució: ./mitjan02
 //Data: 18-1-17 
-//Autor: dc1819daw2
+//Autor: Pol Graells Pizarro
 
 #include <stdio.h>
 
-#define LONG 50 //Longitud del Nom de l'alumne
+#define LONG 85 //Longitud del Nom de l'alumne
 
 void cls() {
 	printf("\033[2J");
